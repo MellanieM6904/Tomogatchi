@@ -8,6 +8,7 @@ class Pet:
     food = 10
     filth = 10
     fun = 10
+    
     # tracked stats
     age = 0
     exp = 0
